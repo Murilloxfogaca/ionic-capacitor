@@ -1,0 +1,7 @@
+{
+  "name": "ionic_frame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
